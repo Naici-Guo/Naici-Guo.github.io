@@ -60,7 +60,7 @@ author:
   bio    : "Ph.D. student in Statistics at the University of St Andrews - this website is still under construction"
   links:
     - label: "SMMB Research Group"
-      icon: "fab fa-solid fa-graduation-cap"
+      icon: "fas fa-solid fa-graduation-cap"
       url: "https://smmb.wp.st-andrews.ac.uk/"
       
     - label: "ReseachGate"
@@ -75,7 +75,7 @@ footer:
 
   links:
     - label: "SMMB Research Group"
-      icon: "fab fa-solid fa-graduation-cap"
+      icon: "fas fa-solid fa-graduation-cap"
       url: "https://smmb.wp.st-andrews.ac.uk/"
       
     - label: "ReseachGate"
