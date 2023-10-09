@@ -57,25 +57,34 @@ plugins:
 author:
   name   : "Naici Guo"
   avatar : "assets/images/Screenshot 2023-10-09 at 18.00.25.png"
-  bio    : "this website is still under construction"
+  bio    : "Ph.D. student in Statistics at the University of St Andrews - this website is still under construction"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "SMMB Research Group"
+      icon: "fab fa-solid fa-graduation-cap"
+      url: "https://smmb.wp.st-andrews.ac.uk/"
+      
+    - label: "ReseachGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Naici-Guo"
       
     - label: "linkedin"
       icon: "fab fa-brands fa-linkedin"
-      url: "https://"
+      url: "https://www.linkedin.com/in/naici-guo/"
       
 footer:
+
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "SMMB Research Group"
+      icon: "fab fa-solid fa-graduation-cap"
+      url: "https://smmb.wp.st-andrews.ac.uk/"
+      
+    - label: "ReseachGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Naici-Guo"
       
     - label: "linkedin"
       icon: "fab fa-brands fa-linkedin"
-      url: "https://"
+      url: "https://www.linkedin.com/in/naici-guo/"
 
 defaults:
   # _posts
