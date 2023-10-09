@@ -6,5 +6,5 @@ title: Welcome to my Website :)
 layout: single
 author_profile: true
 header: 
-  image: /assets/images/research_interests.png
+  image: /assets/images/ri.png
 ---
