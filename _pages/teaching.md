@@ -1,5 +1,6 @@
 ---
-title: Teaching experience
-layout: single
-permalink:/teaching/
+permalink: /teaching/
+title: "Teaching"
 ---
+
+Being written ...
