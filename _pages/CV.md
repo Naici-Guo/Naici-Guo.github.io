@@ -1,7 +1,6 @@
 ---
-title: CV
-categories:
-  - Experience
-tags:
-  - pdf
+permalink: /cv/
+title: "cv"
 ---
+
+Being written ...
